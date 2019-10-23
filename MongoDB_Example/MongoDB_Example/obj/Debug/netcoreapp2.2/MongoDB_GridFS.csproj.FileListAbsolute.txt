@@ -1,0 +1,14 @@
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\bin\Debug\netcoreapp2.2\MongoDB_GridFS.deps.json
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\bin\Debug\netcoreapp2.2\MongoDB_GridFS.runtimeconfig.json
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\bin\Debug\netcoreapp2.2\MongoDB_GridFS.runtimeconfig.dev.json
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\bin\Debug\netcoreapp2.2\MongoDB_GridFS.dll
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\obj\Debug\netcoreapp2.2\MongoDB_GridFS.csprojAssemblyReference.cache
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\obj\Debug\netcoreapp2.2\MongoDB_GridFS.csproj.CoreCompileInputs.cache
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\obj\Debug\netcoreapp2.2\MongoDB_GridFS.AssemblyInfoInputs.cache
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\obj\Debug\netcoreapp2.2\MongoDB_GridFS.AssemblyInfo.cs
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\bin\Debug\netcoreapp2.2\appsettings.json
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\bin\Debug\netcoreapp2.2\appsettings.Debug.json
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\bin\Debug\netcoreapp2.2\appsettings.Release.json
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\bin\Debug\netcoreapp2.2\MongoDB_GridFS.pdb
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\obj\Debug\netcoreapp2.2\MongoDB_GridFS.dll
+D:\GitLab\Sample_MongoDB\MongoDB_GridFS\MongoDB_GridFS\obj\Debug\netcoreapp2.2\MongoDB_GridFS.pdb

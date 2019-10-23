@@ -1,0 +1,14 @@
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\bin\Debug\netcoreapp2.2\appsettings.json
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\bin\Debug\netcoreapp2.2\appsettings.Debug.json
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\bin\Debug\netcoreapp2.2\appsettings.Release.json
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\bin\Debug\netcoreapp2.2\MongoDB_Example.deps.json
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\bin\Debug\netcoreapp2.2\MongoDB_Example.runtimeconfig.json
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\bin\Debug\netcoreapp2.2\MongoDB_Example.runtimeconfig.dev.json
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\bin\Debug\netcoreapp2.2\MongoDB_Example.dll
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\bin\Debug\netcoreapp2.2\MongoDB_Example.pdb
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\obj\Debug\netcoreapp2.2\MongoDB_Example.csprojAssemblyReference.cache
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\obj\Debug\netcoreapp2.2\MongoDB_Example.csproj.CoreCompileInputs.cache
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\obj\Debug\netcoreapp2.2\MongoDB_Example.AssemblyInfoInputs.cache
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\obj\Debug\netcoreapp2.2\MongoDB_Example.AssemblyInfo.cs
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\obj\Debug\netcoreapp2.2\MongoDB_Example.dll
+D:\GitLab\Sample_MongoDB\MongoDB_Example\MongoDB_Example\obj\Debug\netcoreapp2.2\MongoDB_Example.pdb
